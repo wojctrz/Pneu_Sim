@@ -20,7 +20,6 @@
 			<Item Name="WriteMeasData.vi" Type="VI" URL="../subVIs/WriteMeasData.vi"/>
 		</Item>
 		<Item Name="mainVI.vi" Type="VI" URL="../mainVI.vi"/>
-		<Item Name="mainVItestt.vi" Type="VI" URL="../mainVItestt.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
