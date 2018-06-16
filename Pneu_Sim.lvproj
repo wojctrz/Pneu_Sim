@@ -18,6 +18,8 @@
 		<Item Name="subVIs" Type="Folder">
 			<Item Name="RegPID.vi" Type="VI" URL="../subVIs/RegPID.vi"/>
 			<Item Name="WriteMeasData.vi" Type="VI" URL="../subVIs/WriteMeasData.vi"/>
+			<Item Name="AddNoise.vi" Type="VI" URL="../subVIs/AddNoise.vi"/>
+			<Item Name="DynamicObject.vi" Type="VI" URL="../subVIs/DynamicObject.vi"/>
 		</Item>
 		<Item Name="mainVI.vi" Type="VI" URL="../mainVI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
